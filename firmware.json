@@ -3,7 +3,7 @@
     {
       "Board": "ESP32_DEV",
       "Version": "1.0.1",
-      "URL": "https://raw.githubusercontent.com/istrazivacbl/esp32-klizna-kapija-firmware/main/KliznaKapija.bin"
+      "URL": "https://raw.githubusercontent.com/istrazivacbl/klizna-kapija/55b67a7f32994ff349a14b24e17b21c4806d299c/KliznaKapija.bin"
     }
   ]
 }
