@@ -1,0 +1,9 @@
+{
+  "Configurations": [
+    {
+      "Board": "ESP32_DEV",
+      "Version": "1.0.1",
+      "URL": "https://raw.githubusercontent.com/istrazivacbl/esp32-klizna-kapija-firmware/main/KliznaKapija.bin"
+    }
+  ]
+}
